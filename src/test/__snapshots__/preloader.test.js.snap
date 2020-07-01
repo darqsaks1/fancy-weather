@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Preloader changed dom tree 1`] = `
+<div
+  className="fixed"
+>
+  <div
+    className="preloader"
+  >
+    <div
+      className="loader"
+    />
+  </div>
+</div>
+`;
+
+exports[`Preloader changes the class when hovered 1`] = `
+<div
+  className="fixed"
+>
+  <div
+    className="preloader"
+  >
+    <div
+      className="loader"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,126 @@
+@media only screen and (max-width: 1020px) { 
+    .main-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header-controls {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-api {
+        width: 100%;
+        height: 100%;
+    }
+
+    .main-responsive {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .city-time-block {
+        margin: 20px;
+        width: 400px;
+    }
+
+    .map-container {
+        margin-top: 100px;
+        margin-left: 150px;
+    }
+}
+
+@media only screen and (max-width: 602px) { 
+    .temp {
+        font-size: 150px;
+    }
+    .weather-block {
+        width: 200px;
+    }
+
+    .weather-resp {
+        width: 100%;
+    }
+
+    .daily {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+    }
+
+    .days {
+        width: 80%;
+        margin-bottom: 10px;
+    }
+    .main-wrapper {
+       width: 100%;
+    }
+    
+    .input-container {
+        width: 80%;
+    }
+
+    .input_base {
+        width: 200px;
+    }
+ }
+
+ @media only screen and (max-width: 440px) { 
+    .clouds {
+        font-size: 10px;
+        width: 60%
+    }
+
+    .temp {
+        font-size: 200px;
+    }
+
+    .weather-block {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .weather-resp {
+        width: 100%;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .temp {
+        font-size: 150px;
+    } 
+
+    .city-time-block {
+        margin: 20px;
+        width: 70%;
+    }
+    .button-search {
+        margin-top: 10px;
+    }
+ }
+
+ @media only screen and (max-width: 343px) { 
+    .block-controlls {
+        width: 250px;
+    }
+
+    .map {
+        width: 200px;
+        height: 200px;
+    }
+    .input-container {
+        margin-left: 10px;
+         margin-right: 0px;
+        width: 80%;
+    }
+
+    .map-container {
+        height: 260px;
+        margin-bottom: 20px;
+    }
+  }

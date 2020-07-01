@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cl 1`] = `
+<div
+  className="time-block textBlack"
+>
+  <div>
+    <h2>
+      <span>
+        Вт
+      </span>
+      ,
+      <span>
+        2
+      </span>
+      <span>
+        Иля
+      </span>
+      <span>
+        22:02:05
+      </span>
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`Clokc will be  1`] = `
+<div
+  className="time-block textBlack"
+>
+  <div>
+    <h2>
+      <span>
+        Вт
+      </span>
+      ,
+      <span>
+        2
+      </span>
+      <span>
+        Иля
+      </span>
+      <span>
+        22:01:18
+      </span>
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`Clokc will be snapshoted 1`] = `
+<div
+  className="time-block textBlack"
+>
+  <div>
+    <h2>
+      <span>
+        Вт
+      </span>
+      ,
+      <span>
+        2
+      </span>
+      <span>
+        Иля
+      </span>
+      <span>
+        21:49:40
+      </span>
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`Preloader changjed dom tree 1`] = `
+<div
+  className="time-block textBlack"
+>
+  <div>
+    <h2>
+      <span>
+        Вт
+      </span>
+      ,
+      <span>
+        2
+      </span>
+      <span>
+        Иля
+      </span>
+      <span>
+        21:49:04
+      </span>
+    </h2>
+  </div>
+</div>
+`;

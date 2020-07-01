@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Preloader changed dom tree 1`] = `
+<div
+  className="fixed"
+>
+  <div
+    className="preloader"
+  >
+    <div
+      className="loader"
+    />
+  </div>
+</div>
+`;
+
+exports[`Preloader changjed dom tree 1`] = `
+<div
+  className="time-block textBlack"
+>
+  <div>
+    <h2>
+      <span>
+        Вт
+      </span>
+      ,
+      <span>
+        2
+      </span>
+      <span>
+        Иля
+      </span>
+      <span>
+        21:29:45
+      </span>
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`Preqqqqwww 1`] = `
+<div
+  className="flex-row daily black"
+>
+  <div
+    className="days textBlack"
+  >
+    <div
+      className="flex-colunm"
+    >
+      <div />
+      <div>
+        NaN
+        °
+      </div>
+    </div>
+    <img
+      alt="eqq"
+      className="daily-icon"
+    />
+  </div>
+  <div
+    className="days textBlack"
+  >
+    <div
+      className="flex-colunm"
+    >
+      <div />
+      <div>
+        NaN
+        °
+      </div>
+    </div>
+    <img
+      alt="eff"
+      className="daily-icon"
+    />
+  </div>
+  <div
+    className="days textBlack"
+  >
+    <div
+      className="flex-colunm"
+    >
+      <div />
+      <div>
+        NaN
+        °
+      </div>
+    </div>
+    <div>
+       
+      <img
+        alt="eF"
+        className="daily-icon"
+      />
+       
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Prewww 1`] = `
+<div
+  className="block-controlls-theme black"
+>
+  <button
+    className="btn-green day"
+    onClick={[Function]}
+  >
+    <div
+      className="sun"
+    />
+  </button>
+  <button
+    className="btn-green night"
+    onClick={[Function]}
+  >
+    <div
+      className="moon"
+    />
+  </button>
+</div>
+`;
